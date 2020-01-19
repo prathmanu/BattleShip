@@ -1,0 +1,9 @@
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\bin\Debug\netstandard2.0\Battleship.Core.deps.json
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\bin\Debug\netstandard2.0\Battleship.Core.dll
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\bin\Debug\netstandard2.0\Battleship.Core.pdb
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\obj\Debug\netstandard2.0\Battleship.Core.csprojAssemblyReference.cache
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\obj\Debug\netstandard2.0\Battleship.Core.csproj.CoreCompileInputs.cache
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\obj\Debug\netstandard2.0\Battleship.Core.AssemblyInfoInputs.cache
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\obj\Debug\netstandard2.0\Battleship.Core.AssemblyInfo.cs
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\obj\Debug\netstandard2.0\Battleship.Core.dll
+C:\Users\Manu\source\repos\BattleShip\Battleship.Core\obj\Debug\netstandard2.0\Battleship.Core.pdb
